@@ -1,0 +1,1 @@
+const message = "Node JS"
